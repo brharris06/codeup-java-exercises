@@ -1,4 +1,4 @@
-package birds;
+package Birds;
 
 public class BirdTest {
     public static void main(String[] args) {

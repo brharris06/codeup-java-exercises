@@ -1,4 +1,4 @@
-package birds;
+package Birds;
 
 public class BirdShelter {
 

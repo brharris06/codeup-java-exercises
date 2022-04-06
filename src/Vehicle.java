@@ -3,6 +3,7 @@ package vehicles;
 public class Vehicle {
     private String name;
 
+
     public String getName() {
         return name;
     }
