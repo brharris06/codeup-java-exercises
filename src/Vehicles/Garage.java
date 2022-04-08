@@ -1,4 +1,4 @@
-package vehicles;
+package Vehicles;
 
 public class Garage {
 

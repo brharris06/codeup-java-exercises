@@ -1,6 +1,6 @@
-package birds;
+package Birds;
 
-import birds.Bird;
+import Birds.Bird;
 
 public class Finch extends Bird {
     public Finch(){

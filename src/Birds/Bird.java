@@ -1,4 +1,4 @@
-package birds;
+package Birds;
 
 public class Bird {
     final String CLASS = "Aves";

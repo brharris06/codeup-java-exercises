@@ -1,6 +1,6 @@
-package birds;
+package Birds;
 
-import birds.Bird;
+import Birds.Bird;
 
 public class Duck extends Bird {
     public void makeNoise(){

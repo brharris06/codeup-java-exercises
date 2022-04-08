@@ -2,24 +2,24 @@ package Birds;
 
 public class BirdTest {
     public static void main(String[] args) {
-//        birds.Bird cardinal = new birds.Bird();
+//        Birds.Bird cardinal = new Birds.Bird();
 //        cardinal.setName("Cardinal");
 //        cardinal.setCanFly(true);
 //        System.out.print(cardinal.getName() + " goes ");
 //        cardinal.makeNoise();
 //        cardinal.move();
-//        birds.Duck mallard = new birds.Duck();
-//        mallard.setName("Mallard birds.Duck");
+//        Birds.Duck mallard = new Birds.Duck();
+//        mallard.setName("Mallard Birds.Duck");
 //        System.out.print(mallard.getName() + " goes ");
 //        mallard.makeNoise();
 //        mallard.move();
-//        birds.Finch lesserGoldFinch = new birds.Finch("Tweety", true);
+//        Birds.Finch lesserGoldFinch = new Birds.Finch("Tweety", true);
 //        lesserGoldFinch.makeNoise();
 //        System.out.println(lesserGoldFinch.getName());
 
-//        birds.Bird theBird = new birds.Bird();
+//        Birds.Bird theBird = new Birds.Bird();
 //
-//        birds.Bird myDuck = new birds.Duck();
+//        Birds.Bird myDuck = new Birds.Duck();
 //        myDuck.makeNoise();
 //        myDuck.setName("ducky");
 //        System.out.println(myDuck);
